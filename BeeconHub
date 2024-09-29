@@ -15,4 +15,6 @@ elseif i_am_skidder == 9224601490 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Fruit/main/Battleground"))()
 elseif i_am_skidder == 15501353806 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Swordmaster/main/Sim"))()
+elseif i_am_skidder == 13926416231 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DuckArmy/refs/heads/main/DuckArmy"))()
 end
