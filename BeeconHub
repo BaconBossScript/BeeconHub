@@ -33,4 +33,6 @@ elseif gameInfo.Name:match("Swim League") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/SwimLeague/refs/heads/main/SwimLeague"))()
 elseif gameInfo.Name:match("Weapon Warrior") or gameInfo.Name:match("World") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/WWS/refs/heads/main/WWS"))()
+elseif i_am_skidder == 13827198708 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PullASword/refs/heads/main/PullASword"))()
 end
