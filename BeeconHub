@@ -35,4 +35,6 @@ elseif gameInfo.Name:match("Weapon Warrior") or gameInfo.Name:match("World") the
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/WWS/refs/heads/main/WWS"))()
 elseif i_am_skidder == 13827198708 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PullASword/refs/heads/main/PullASword"))()
+elseif i_am_skidder == 16083480397 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/EnergyDrinkSim/refs/heads/main/EnergyDrinkSim"))()
 end
