@@ -41,4 +41,6 @@ elseif i_am_skidder == 18463280776 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/OPFighterX/refs/heads/main/OPFighterX"))()
 elseif gameInfo.Name:match("Murder") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/MM2/refs/heads/main/MM2"))()
+elseif i_am_skidder == 14751111428 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/GladiatorSim/refs/heads/main/GladiatorSim"))()
 end
