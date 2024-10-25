@@ -43,4 +43,6 @@ elseif gameInfo.Name:match("Murder") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/MM2/refs/heads/main/MM2"))()
 elseif i_am_skidder == 14751111428 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/GladiatorSim/refs/heads/main/GladiatorSim"))()
+elseif i_am_skidder == 13127800756 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/ArmWrestleSim/refs/heads/main/ArmWrestleSim"))()
 end
