@@ -21,7 +21,7 @@ elseif i_am_skidder == 13926416231 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DuckArmy/refs/heads/main/DuckArmy"))()
 elseif i_am_skidder == 16280073867 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BridgeSim/refs/heads/main/BridgeSim"))()
-elseif i_am_skidder == 70906625936847 then
+elseif i_am_skidder == 70906625936847 or i_am_skidder == 96760343079706 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/GymStarSim/refs/heads/main/GymStarSim"))()
 elseif i_am_skidder == 17121846721 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BuildWFriend/refs/heads/main/BuildWFriend"))()
