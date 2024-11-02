@@ -51,4 +51,6 @@ elseif i_am_skidder == 18459669354 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BuildABoatSim/refs/heads/main/BuildABoatSim"))()
 elseif i_am_skidder == 14082247421 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/MoneySimZ/refs/heads/main/MoneySimZ"))()
+elseif i_am_skidder == 124108327472853 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/NuclearSim/refs/heads/main/NuclearSim"))()
 end
