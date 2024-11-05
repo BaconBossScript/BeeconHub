@@ -57,4 +57,6 @@ elseif i_am_skidder == 89438510123061 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeShadow/refs/heads/main/AnimeShadow"))()
 elseif i_am_skidder == 18901165922 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PetGO/refs/heads/main/PetGO"))()
+elseif i_am_skidder == 16732694052 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Fisch/refs/heads/main/Fisch"))()
 end
