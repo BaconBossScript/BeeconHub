@@ -31,7 +31,7 @@ elseif i_am_skidder == 18401171146 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeStrikeSim/refs/heads/main/AnimeStrikeSim"))()
 elseif gameInfo.Name:match("Swim League") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/SwimLeague/refs/heads/main/SwimLeague"))()
-elseif (gameInfo.Name:match("Weapon Warrior") or gameInfo.Name:match("World")) and i_am_skidder ~= 93787311916283 then
+elseif (gameInfo.Name:match("Weapon Warrior") or gameInfo.Name:match("World")) and not gameInfo.Name:match("Horse") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/WWS/refs/heads/main/WWS"))()
 elseif i_am_skidder == 13827198708 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PullASword/refs/heads/main/PullASword"))()
