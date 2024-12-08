@@ -65,4 +65,6 @@ elseif i_am_skidder == 124237744372745 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/RoadRageSim/refs/heads/main/RoadRageSim"))()
 elseif i_am_skidder == 18956736354 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeSlashingSim/refs/heads/main/AnimeSlashingSim"))()
+elseif i_am_skidder == 93787311916283 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/HorseRace/refs/heads/main/HorseRace"))()
 end
