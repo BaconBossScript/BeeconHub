@@ -75,4 +75,6 @@ elseif i_am_skidder == 15905908514 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/MewingSim/refs/heads/main/MewingSim"))()
 elseif i_am_skidder == 7180042682 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Military-Tycoon/refs/heads/main/MilitaryTycoon"))()
+elseif i_am_skidder == 12828227139 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/WarMachines/refs/heads/main/WarMachines"))()
 end
