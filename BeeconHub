@@ -83,4 +83,6 @@ elseif i_am_skidder == 6766156863 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/StrongmanSim/refs/heads/main/StrongmanSim"))()
 elseif gameInfo.Name:match("Blood") and gameInfo.Name:match("World") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BloodofPunch/refs/heads/main/BloodofPunch"))()
+elseif i_am_skidder == 14025779410 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AvatarFightingSim/refs/heads/main/AvatarFightingSim"))()
 end
