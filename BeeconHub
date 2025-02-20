@@ -85,4 +85,6 @@ elseif gameInfo.Name:match("Blood") and gameInfo.Name:match("World") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BloodofPunch/refs/heads/main/BloodofPunch"))()
 elseif i_am_skidder == 14025779410 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AvatarFightingSim/refs/heads/main/AvatarFightingSim"))()
+elseif i_am_skidder == 16764220096 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeWavesX/refs/heads/main/AnimeWavesX"))()
 end
