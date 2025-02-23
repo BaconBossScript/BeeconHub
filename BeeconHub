@@ -87,4 +87,6 @@ elseif i_am_skidder == 14025779410 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AvatarFightingSim/refs/heads/main/AvatarFightingSim"))()
 elseif i_am_skidder == 16764220096 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeWavesX/refs/heads/main/AnimeWavesX"))()
+elseif i_am_skidder == 8075399143 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/NinjaTime/refs/heads/main/NinjaTime"))()
 end
