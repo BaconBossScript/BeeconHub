@@ -1,4 +1,5 @@
 repeat task.wait(0.1) until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))()
 local MarketplaceService = game:GetService("MarketplaceService")
 local success, gameInfo = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
 local i_am_skidder = game.PlaceId
@@ -91,4 +92,6 @@ elseif i_am_skidder == 8075399143 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/NinjaTime/refs/heads/main/NinjaTime"))()
 elseif i_am_skidder == 134257874794717 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/CapybaraEvo/refs/heads/main/CapybaraEvo"))()
+elseif i_am_skidder == 82839762540477 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeGeek/refs/heads/main/AnimeGeek"))()
 end
