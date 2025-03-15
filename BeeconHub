@@ -96,4 +96,6 @@ elseif i_am_skidder == 82839762540477 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeGeek/refs/heads/main/AnimeGeek"))()
 elseif i_am_skidder == 123498993729957 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeSpiritsJourney/refs/heads/main/AnimeSpiritsJourney"))()
+elseif i_am_skidder == 87039211657390 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AriseCrossover/refs/heads/main/AriseCrossover"))()
 end
