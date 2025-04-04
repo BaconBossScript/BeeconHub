@@ -104,4 +104,6 @@ elseif i_am_skidder == 70876832253163 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DeadRails/refs/heads/main/DeadRails"))()
 elseif i_am_skidder == 80279663815725 or gameInfo.Name == "World2" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PrisonPump/refs/heads/main/PrisonPump"))()
+elseif i_am_skidder == 119377270058639 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DeadRailsMODDED/refs/heads/main/DeadRailsMODDED"))()
 end
