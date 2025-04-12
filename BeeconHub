@@ -110,4 +110,6 @@ elseif i_am_skidder == 74260430392611 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/RBC/refs/heads/main/Ultimate"))()
 elseif i_am_skidder == 17334984034 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeKingdomSim/refs/heads/main/AnimeKingdomSim"))()
+elseif i_am_skidder == 85896571713843 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BGSINF/refs/heads/main/BGSINF"))()
 end
