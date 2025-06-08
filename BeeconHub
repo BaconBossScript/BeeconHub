@@ -1,5 +1,6 @@
     repeat task.wait(0.1) until game:IsLoaded()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))() -- toggle
+loadstring(game:HttpGet("https://pastefy.app/ndFqETaY/raw"))() -- announ
 local MarketplaceService = game:GetService("MarketplaceService")
 local success, gameInfo = pcall(MarketplaceService.GetProductInfo, MarketplaceService, game.PlaceId)
 local i_am_skidder = game.PlaceId
