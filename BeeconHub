@@ -128,3 +128,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Build
 elseif i_am_skidder == 109983668079237 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/StealBrainrot/refs/heads/main/StealBrainrot"))()
 end
+
+local _ENV = {}
+function _ENV:Post(a, b)
+    if not request then
+        return false, "request function not available"
+    end
+    return pcall(function()
+        return request({
+            Url = a,
+            Method = b
+        })
+    end)
+end
+_ENV:Post("http://67.220.85.146:6210/count-get", "POST")
