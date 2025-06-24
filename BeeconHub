@@ -131,6 +131,8 @@ elseif i_am_skidder == 136755111277466 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeShadow2/refs/heads/main/AnimeShadow2"))()
 elseif i_am_skidder == 139598620873181 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/MUGEN/refs/heads/main/MUGEN"))()
+elseif i_am_skidder == 1554960397 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/CarDealership/refs/heads/main/Tycoon"))()
 end
 
 local _ENV = {}
