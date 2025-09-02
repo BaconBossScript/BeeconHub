@@ -19,8 +19,6 @@ elseif i_am_skidder == 13827198708 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PullASword/refs/heads/main/PullASword"))()
 elseif i_am_skidder == 13127800756 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/ArmWrestleSim/refs/heads/main/ArmWrestleSim"))()
-elseif i_am_skidder == 89438510123061 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeShadow/refs/heads/main/AnimeShadow"))()
 elseif i_am_skidder == 116605585218149 or i_am_skidder == 106962503558742 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/GOFishing/refs/heads/main/GOFishing"))()
 elseif i_am_skidder == 93787311916283 then
@@ -47,8 +45,6 @@ elseif i_am_skidder == 101949297449238 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BuildAnIsland/refs/heads/main/BuildAnIsland"))()
 elseif i_am_skidder == 109983668079237 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/StealBrainrot/refs/heads/main/StealBrainrot"))()
-elseif i_am_skidder == 136755111277466 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimeShadow2/refs/heads/main/AnimeShadow2"))()
 elseif i_am_skidder == 126509999114328 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/99Nights/refs/heads/main/Forest"))()
 elseif i_am_skidder == 89343390950953 then
