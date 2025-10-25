@@ -35,7 +35,7 @@ elseif i_am_skidder == 76598287484083 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimePower/refs/heads/main/AnimePower"))()
 elseif i_am_skidder == 70876832253163 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DeadRails/refs/heads/main/DeadRails"))()
-elseif i_am_skidder == 80279663815725 or gameInfo.Name == "World2" then
+elseif i_am_skidder ~= 129206826335082 and (i_am_skidder == 80279663815725 or gameInfo.Name == "World2") then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/PrisonPump/refs/heads/main/PrisonPump"))()
 elseif i_am_skidder == 74260430392611 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/RBC/refs/heads/main/Ultimate"))()
