@@ -49,6 +49,8 @@ elseif i_am_skidder == 89343390950953 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/SingingBrainrot/refs/heads/main/SingingBrainrot"))()
 elseif i_am_skidder == 15579077077 then
 loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/5bc9b65a73e6c897"))()
+elseif i_am_skidder == 123557829667240 then
+loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/9444eec78975a7f9"))()
 else
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/Luarmor/refs/heads/main/KeySystem'),true))()
 end
