@@ -29,10 +29,6 @@ elseif i_am_skidder == 12828227139 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/WarMachines/refs/heads/main/WarMachines"))()
 elseif i_am_skidder == 6766156863 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/StrongmanSim/refs/heads/main/StrongmanSim"))()
-elseif i_am_skidder == 134257874794717 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/CapybaraEvo/refs/heads/main/CapybaraEvo"))()
-elseif i_am_skidder == 76598287484083 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/AnimePower/refs/heads/main/AnimePower"))()
 elseif i_am_skidder == 70876832253163 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/DeadRails/refs/heads/main/DeadRails"))()
 elseif i_am_skidder ~= 129206826335082 and (i_am_skidder == 80279663815725 or gameInfo.Name == "World2") then
@@ -45,8 +41,6 @@ elseif i_am_skidder == 101949297449238 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BuildAnIsland/refs/heads/main/BuildAnIsland"))()
 elseif i_am_skidder == 126509999114328 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/99Nights/refs/heads/main/Forest"))()
-elseif i_am_skidder == 89343390950953 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/SingingBrainrot/refs/heads/main/SingingBrainrot"))()
 elseif i_am_skidder == 15579077077 then
 loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/5bc9b65a73e6c897"))()
 elseif i_am_skidder == 123557829667240 then
