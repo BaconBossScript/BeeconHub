@@ -1,5 +1,8 @@
 repeat task.wait(0) until game:IsLoaded()
+if _G.Solhop then
 loadstring(game:HttpGet("https://pastefy.app/OglBGOoU/raw", true))() -- 
+return
+end
 loadstring(game:HttpGet("https://pastefy.app/hnekDQDE/raw", true))() -- game list
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))() -- toggle
 loadstring(game:HttpGet("https://pastefy.app/ndFqETaY/raw"))() -- announ
