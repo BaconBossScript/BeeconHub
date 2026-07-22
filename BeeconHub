@@ -3,7 +3,7 @@ task.spawn(function()
 loadstring(game:HttpGet("https://pastefy.app/OglBGOoU/raw", true))() -- 
 end)
 loadstring(game:HttpGet("https://pastefy.app/hnekDQDE/raw", true))() -- game list
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))() -- toggle
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/Toggle/refs/heads/main/BeeconHub"))() -- toggle
 loadstring(game:HttpGet("https://pastefy.app/ndFqETaY/raw"))() -- announ
 
 local MarketplaceService = game:GetService("MarketplaceService")
