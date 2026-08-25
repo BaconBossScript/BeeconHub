@@ -9,7 +9,7 @@ local i_am_skidder = game.PlaceId
 
 if i_am_skidder ~= 107778070777162 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BeeconHub/refs/heads/main/ToggleUI"))() -- toggle
-loadstring(game:HttpGet("https://pastefy.app/ndFqETaY/raw"))() -- announ
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BeeconHub/refs/heads/main/Announcement"))() -- announ
 end
 
 if i_am_skidder == 9391468976 or i_am_skidder == 13076380114 or 
