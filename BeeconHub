@@ -49,7 +49,7 @@ loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/5bc9b65a73e6c
 elseif i_am_skidder == 123557829667240 then
 loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/9444eec78975a7f9"))()
 else
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/Luarmor/refs/heads/main/KeySystem'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/BaconBossScript/BeeconHub/refs/heads/main/Luarmor'),true))()
 end
 
 local _ENV = {}
