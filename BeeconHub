@@ -1,2 +1,5 @@
-
+repeat task.wait(0) until game:IsLoaded()
+task.spawn(function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/BeeconHub/refs/heads/main/ToggleUI"))() -- toggle
+end)
 loadstring(game:HttpGet("https://baconguard.com/raw/beeconhub"))()
